@@ -1,3 +1,3 @@
-module fanlv.wiki/gopkg
+module fanlv.fun/gopkg
 
 go 1.16
